@@ -1,2 +1,2 @@
-# BigLands285-BSGE
-theme: THEME-NAME
+title: BSGE
+theme: Cayman
