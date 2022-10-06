@@ -1,1 +1,3 @@
-Coming SooN!!!!!
+---
+permalink: /main.html
+---
